@@ -1,0 +1,45 @@
+.cartCont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnOrder{
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.btn_place{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.no-items{
+    width: 100%;
+    height: 100%;
+    margin-top:100px;
+    text-align: center;
+
+}
+
+.cart{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;    
+}
+
+.total{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}

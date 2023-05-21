@@ -1,0 +1,53 @@
+.imageCont{
+    width: 300px;
+    height: 300px;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
+
+.product_title{
+    margin-top: 2px;
+}
+
+.product_price{
+    margin-top: 2px;
+}
+
+.product_rating{
+    margin-top: 2px;
+}
+
+.btn_cart{
+    width: 120px;
+    height: 30px;
+    margin-left: 5px;
+    background-color: rgb(223, 223, 10);
+    border-color:rgb(226, 226, 13) ;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn_cart:hover{
+    background-color: white;
+    border-width: 4px;
+    border-color: rgb(233, 233, 8);
+    color: black;
+}
+
+.btn_cartAdd{
+    width: 120px;
+    height: 30px;
+    margin-left: 5px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+

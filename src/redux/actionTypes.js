@@ -1,0 +1,8 @@
+export const ADD_ITEM="ADD_ITEM";
+export const MODIFY_ITEM="MODIFY_ITEM";
+export const REMOVE_ITEM="REMOVE_ITEM";
+export const ADD_LOGGED_PROFILE = "ADD_LOGGED_PROFILE";
+export const ADD_LOGGED_USER = "ADD_LOGGED_USER";
+export const ADD_TOGGLE_LOGIN = "ADD_TOGGLE_LOGIN";
+export const ADD_ORDERS = "ADD_ORDERS";
+export const ADD_PROFILE_USER_LIST = "ADD_PROFILE_USER_LIST";
